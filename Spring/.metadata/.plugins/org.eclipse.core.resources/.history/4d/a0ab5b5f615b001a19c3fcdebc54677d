@@ -1,0 +1,5 @@
+package com.rohan.socket;
+
+public class WebSocketConfig {
+
+}
